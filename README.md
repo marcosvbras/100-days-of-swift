@@ -18,8 +18,7 @@ This project is a piece of a series called **X Days Of Something**, which one in
 
 Writing code that works is easy (most of the time). But writing efficient, clear, concise, scalable, and maintainable code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding.
 
-## Status: To be started
-
 | Day | Title      |
 | --- |:----------:|
 | 001 | [Hello World!](days/day001) |
+| 002 | [Variable and constant creation](days/day002) |
