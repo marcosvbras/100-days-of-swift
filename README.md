@@ -22,4 +22,4 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 
 | Day | Title      |
 | --- |:----------:|
-| 001 | [](/) |
+| 001 | [Hello World!](days/day001) |
