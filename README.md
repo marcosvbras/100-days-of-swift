@@ -22,3 +22,4 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 | --- |:----------:|
 | 001 | [Hello World!](days/day001) |
 | 002 | [Variable and constant creation](days/day002) |
+| 003 | [Variable types](days/day003) |
