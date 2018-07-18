@@ -28,3 +28,4 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 | 006 | [Playing with Dictionaries](days/day006) |
 | 007 | [For Loops](days/day007) |
 | 008 | [While Loops](days/day008) |
+| 009 | [Making conditions](days/day009) |
