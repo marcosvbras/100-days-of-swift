@@ -27,3 +27,4 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 | 005 | [Playing with Sets](days/day005) |
 | 006 | [Playing with Dictionaries](days/day006) |
 | 007 | [For Loops](days/day007) |
+| 008 | [While Loops](days/day008) |
