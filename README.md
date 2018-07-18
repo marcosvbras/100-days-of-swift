@@ -24,3 +24,4 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 | 002 | [Variable and constant creation](days/day002) |
 | 003 | [Variable types](days/day003) |
 | 004 | [Playing with Arrays](days/day004) |
+| 005 | [Playing with Sets](days/day005) |
