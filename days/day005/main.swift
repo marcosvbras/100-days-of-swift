@@ -45,3 +45,5 @@ let numberSet2: Set = [1, 2, 3]
 print(numberSet2.isSubset(of: numberSet1)) // true
 print(numberSet1.isSubset(of: numberSet2)) // false
 print(numberSet1.isSuperset(of: numberSet2)) // true
+
+print(whateverNumbers.sorted()) // [-5, 1, 6]
