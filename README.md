@@ -20,13 +20,13 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 
 | Day | Title      |
 | --- |:----------:|
-| 001 | [Hello World!](days/day001) |
-| 002 | [Variable and constant creation](days/day002) |
-| 003 | [Variable types](days/day003) |
-| 004 | [Playing with Arrays](days/day004) |
-| 005 | [Playing with Sets](days/day005) |
-| 006 | [Playing with Dictionaries](days/day006) |
-| 007 | [For Loops](days/day007) |
-| 008 | [While Loops](days/day008) |
-| 009 | [Making conditions](days/day009) |
-| 010 | [Creating functions](days/day010) |
+| 001 | [Hello World!](days/day001/main.swift) |
+| 002 | [Variable and constant creation](days/day002/main.swift) |
+| 003 | [Variable types](days/day003/main.swift) |
+| 004 | [Playing with Arrays](days/day004/main.swift) |
+| 005 | [Playing with Sets](days/day005/main.swift) |
+| 006 | [Playing with Dictionaries](days/day006/main.swift) |
+| 007 | [For Loops](days/day007/main.swift) |
+| 008 | [While Loops](days/day008/main.swift) |
+| 009 | [Making conditions](days/day009/main.swift) |
+| 010 | [Creating functions](days/day010/main.swift) |
